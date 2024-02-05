@@ -1,0 +1,89 @@
+#+STARTUP: logdrawer
+
+#+hugo_base_dir: ../
+#+hugo_auto_set_lastmod: t
+
+#+bibliography: cite/bib/publications.bib
+#+cite_export: csl cite/csl/ieee.csl
+
+#+TODO: TODO(t) | DONE(d!)
+
+* DONE About Me
+CLOSED: [2022-12-26 Mon 17:26]
+:PROPERTIES:
+:EXPORT_FILE_NAME: about
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showDate false
+:END:
+** Moin and Servus!
+
+My name is Cenk Gündoğan, and I am currently a senior researcher at the Huawei Research Center in Munich, Germany focusing on connectivity and networking solutions for Industrie 4.0 and the industrial IoT.
+
+My previous research background is in (i) IoT connectivity and (ii) information-centric networking (ICN).
+I worked as a research assistant at the [[https://inet.haw-hamburg.de/][Internet Technologies]] research group within the projects [[http://i3.realmv6.org/][I3]] and [[https://pivot-project.info/][PIVOT]], both funded by the Federal Ministry of Education and Research.
+Supervised by [[https://www.mi.fu-berlin.de/en/inf/groups/ilab/members/waehlisch.html][Prof. Dr. Matthias Wählisch]] and [[https://inet.haw-hamburg.de/members/schmidt][Prof. Dr. Thomas Schmidt]], I obtained my doctorate (Dr. rer. nat.) from [[https://www.fu-berlin.de/][FU Berlin]].
+
+** Interests
+*** IETF
+
+  I follow these working and research groups: [[https://datatracker.ietf.org/wg/6lo/][6lo]], [[https://datatracker.ietf.org/wg/roll/][roll]], [[https://datatracker.ietf.org/wg/core/][core]], [[https://datatracker.ietf.org/wg/lpwan/][lpwan]], [[https://datatracker.ietf.org/wg/detnet/][detnet]], [[https://datatracker.ietf.org/rg/icnrg][icnrg]], [[https://datatracker.ietf.org/rg/t2trg/][t2trg]].
+  In the past, I also participated in several IETF hackathons and in previous editions of Bits-n-Bites to showcase low-power implementations of networking protocols on embedded hardware using the [[https://www.riot-os.org/][RIOT]] IoT operating system.
+*** Photography
+In 2021, I picked up photography as a creative outlet during the COVID-19 pandemic.
+I use a Sony a7c full-frame mirrorless camera, and quite often my 85mm f/1.8 and 14mm f/1.8 lenses.
+I shoot in RAW format and enjoy editing my shots with the open source photography workflow application [[https://www.darktable.org/][darktable]].
+*** Hiking
+I have always enjoyed a restorative walk in the nature.
+Now that I live in Munich, I started exploring hiking trails and routes in the Bavarian Alps 1-2 times per month.
+** Open Source Contributions
+*** RIOT
+*** Wireshark
+
+* COMMENT Résumé
+:PROPERTIES:
+:EXPORT_FILE_NAME: resume
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showDate false
+:END:
+
+* DONE Publications
+CLOSED: [2022-12-31 Sat 20:58]
+:PROPERTIES:
+:EXPORT_FILE_NAME: publications
+:EXPORT_HUGO_SECTION: /
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :showDate false :showReadingTime false :showWordCount false
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-31 Sat 20:58]
+:END:
+
+** Conference Papers
+[cite/n:@*]
+#+print_bibliography: :keyword paper,peer-reviewed
+** Journal Papers
+[cite/n:@*]
+#+print_bibliography: :keyword journal
+** Book Chapters
+[cite/n:@*]
+#+print_bibliography: :keyword book-chapter
+** IETF Drafts and RFCs
+[cite/n:@*]
+#+print_bibliography: :keyword ietf
+** Demos and Posters
+[cite/n:@*]
+#+print_bibliography: :keyword demo
+#+print_bibliography: :keyword poster
+** Open Archive Papers
+[cite/n:@*]
+#+print_bibliography: :keyword paper,open-archive
+
+* Blog
+** TODO My first post :tag1:@category1:
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-post
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2022-12-29 Thu 23:50]
+- State "DONE"       from "TODO"       [2022-12-28 Wed 11:24]
+:END:
+This is my post body
