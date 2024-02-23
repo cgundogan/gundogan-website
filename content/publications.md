@@ -2,7 +2,7 @@
 title = "Publications"
 author = ["Cenk Gündoğan"]
 date = 2022-12-31T20:58:00+01:00
-lastmod = 2024-02-05T22:26:37+01:00
+lastmod = 2024-02-23T09:55:57+01:00
 draft = false
 showDate = false
 showReadingTime = false
@@ -67,22 +67,25 @@ showWordCount = false
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 2em;}</style><div class="csl-bib-body">
   <div class="csl-entry"><a id="citeproc_bib_item_15"></a>
-    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “A Mobility-compliant Publish Subscribe System for an Information Centric Internet of Things,” <i>Computer networks</i>, vol. 203, no. 108656, pp. 1–14, 2022, Available: <a href="https://doi.org/10.1016/j.comnet.2021.108656">https://doi.org/10.1016/j.comnet.2021.108656</a></div>
+    <div class="csl-left-margin">[15]</div><div class="csl-right-inline">M. G. Bhat, S. Bhattacharjee, C. Gündoğan, K. Alexandris, and A. Gogolev, “CORECONF, NETCONF, and RESTCONF: Benchmarking Network Orchestration in Constrained IIoT Devices,” <i>Ieee internet of things journal</i>, p. 1, 2023, doi: <a href="https://doi.org/10.1109/JIOT.2023.3338470">10.1109/JIOT.2023.3338470</a>.</div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_16"></a>
-    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">C. Gündogan, C. Amsüss, T. C. Schmidt, and M. Wählisch, “Content Object Security in the Internet of Things: Challenges, Prospects, and Emerging Solutions,” <i>Ieee transactions on network and service management (tnsm)</i>, 2021, Available: <a href="https://doi.org/10.1109/TNSM.2021.3099902">https://doi.org/10.1109/TNSM.2021.3099902</a></div>
+    <div class="csl-left-margin">[16]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “A Mobility-compliant Publish Subscribe System for an Information Centric Internet of Things,” <i>Computer networks</i>, vol. 203, no. 108656, pp. 1–14, 2022, Available: <a href="https://doi.org/10.1016/j.comnet.2021.108656">https://doi.org/10.1016/j.comnet.2021.108656</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_17"></a>
-    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">C. Gündogan <i>et al.</i>, “The Impact of Networking Protocols on Massive M2M Communication in the Industrial IoT,” <i>Ieee transactions on network and service management (tnsm)</i>, vol. 18, no. 4, pp. 4814–4828, 2021, Available: <a href="https://doi.org/10.1109/TNSM.2021.3089549">https://doi.org/10.1109/TNSM.2021.3089549</a></div>
+    <div class="csl-left-margin">[17]</div><div class="csl-right-inline">C. Gündogan, C. Amsüss, T. C. Schmidt, and M. Wählisch, “Content Object Security in the Internet of Things: Challenges, Prospects, and Emerging Solutions,” <i>Ieee transactions on network and service management (tnsm)</i>, 2021, Available: <a href="https://doi.org/10.1109/TNSM.2021.3099902">https://doi.org/10.1109/TNSM.2021.3099902</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_18"></a>
-    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “Designing a LoWPAN convergence layer for the Information Centric Internet of Things,” <i>Computer communications</i>, vol. 164, no. 1, pp. 114–123, 2020, Available: <a href="https://doi.org/10.1016/j.comcom.2020.10.002">https://doi.org/10.1016/j.comcom.2020.10.002</a></div>
+    <div class="csl-left-margin">[18]</div><div class="csl-right-inline">C. Gündogan <i>et al.</i>, “The Impact of Networking Protocols on Massive M2M Communication in the Industrial IoT,” <i>Ieee transactions on network and service management (tnsm)</i>, vol. 18, no. 4, pp. 4814–4828, 2021, Available: <a href="https://doi.org/10.1109/TNSM.2021.3089549">https://doi.org/10.1109/TNSM.2021.3089549</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_19"></a>
-    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">C. Gündogan, J. Pfender, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “On the Impact of QoS Management in an Information-centric Internet of Things,” <i>Computer communications</i>, vol. 154, pp. 160–172, 2020, Available: <a href="https://doi.org/10.1016/j.comcom.2020.02.046">https://doi.org/10.1016/j.comcom.2020.02.046</a></div>
+    <div class="csl-left-margin">[19]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “Designing a LoWPAN convergence layer for the Information Centric Internet of Things,” <i>Computer communications</i>, vol. 164, no. 1, pp. 114–123, 2020, Available: <a href="https://doi.org/10.1016/j.comcom.2020.10.002">https://doi.org/10.1016/j.comcom.2020.10.002</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_20"></a>
-    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">E. Baccelli <i>et al.</i>, “RIOT: an Open Source Operating System for Low-end Embedded Devices in the IoT,” <i>Ieee internet of things journal</i>, vol. 5, no. 6, pp. 4428–4440, 2018, Available: <a href="http://dx.doi.org/10.1109/JIOT.2018.2815038">http://dx.doi.org/10.1109/JIOT.2018.2815038</a></div>
+    <div class="csl-left-margin">[20]</div><div class="csl-right-inline">C. Gündogan, J. Pfender, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “On the Impact of QoS Management in an Information-centric Internet of Things,” <i>Computer communications</i>, vol. 154, pp. 160–172, 2020, Available: <a href="https://doi.org/10.1016/j.comcom.2020.02.046">https://doi.org/10.1016/j.comcom.2020.02.046</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>
+    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">E. Baccelli <i>et al.</i>, “RIOT: an Open Source Operating System for Low-end Embedded Devices in the IoT,” <i>Ieee internet of things journal</i>, vol. 5, no. 6, pp. 4428–4440, 2018, Available: <a href="http://dx.doi.org/10.1109/JIOT.2018.2815038">http://dx.doi.org/10.1109/JIOT.2018.2815038</a></div>
   </div>
 </div>
 
@@ -93,8 +96,8 @@ showWordCount = false
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 2em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_21"></a>
-    <div class="csl-left-margin">[21]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “Information-Centric Networking for the Industrial Internet of Things,” in <i>Wireless Networks and Industrial IoT</i>, N. H. Mahmood, N. Marchenko, M. Gidlund, and P. Popovski, Eds. Springer, 2021, pp. 171–189. Available: <a href="https://link.springer.com/chapter/10.1007/978-3-030-51473-0_9">https://link.springer.com/chapter/10.1007/978-3-030-51473-0_9</a></div>
+  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>
+    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “Information-Centric Networking for the Industrial Internet of Things,” in <i>Wireless Networks and Industrial IoT</i>, N. H. Mahmood, N. Marchenko, M. Gidlund, and P. Popovski, Eds. Springer, 2021, pp. 171–189. Available: <a href="https://link.springer.com/chapter/10.1007/978-3-030-51473-0_9">https://link.springer.com/chapter/10.1007/978-3-030-51473-0_9</a></div>
   </div>
 </div>
 
@@ -105,26 +108,29 @@ showWordCount = false
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 2em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_22"></a>
-    <div class="csl-left-margin">[22]</div><div class="csl-right-inline">C. Gündogan, T. C. Schmidt, M. Wählisch, C. Scherb, C. Marxer, and C. Tschudin, “Information-Centric Networking (ICN) Adaptation to Low-Power Wireless Personal Area Networks (LoWPANs),” RFC Editor, IRTF, RFC 9139, 2021. Available: <a href="http://www.rfc-editor.org/info/rfc9139">http://www.rfc-editor.org/info/rfc9139</a></div>
-  </div>
   <div class="csl-entry"><a id="citeproc_bib_item_23"></a>
-    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">M. S. Lenders, C. Amsüss, C. Gündogan, T. C. Schmidt, and M. Wählisch, “DNS Queries over CoAP (DoC),” IETF, IETF Internet Draft – work in progress 02, 2021. Available: <a href="https://datatracker.ietf.org/doc/draft-lenders-dns-over-coap/">https://datatracker.ietf.org/doc/draft-lenders-dns-over-coap/</a></div>
+    <div class="csl-left-margin">[23]</div><div class="csl-right-inline">C. Gündoğan, T. C. Schmidt, D. R. Oran, and M. Wählisch, “Alternative Delta Time Encoding for Content-Centric Networking (CCNx) Using Compact Floating-Point Arithmetic,” RFC 9510; RFC Editor, 9510, Feb. 2024. doi: <a href="https://doi.org/10.17487/RFC9510">10.17487/RFC9510</a>.</div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_24"></a>
-    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">C. Gündogan, C. Amsüss, T. C. Schmidt, and M. Wählisch, “A Data-centric Deployment Option for CoAP,” IETF, IETF Internet Draft – work in progress 00, 2021. Available: <a href="https://datatracker.ietf.org/doc/html/draft-gundogan-core-icncoap/">https://datatracker.ietf.org/doc/html/draft-gundogan-core-icncoap/</a></div>
+    <div class="csl-left-margin">[24]</div><div class="csl-right-inline">C. Gündogan, T. C. Schmidt, M. Wählisch, C. Scherb, C. Marxer, and C. Tschudin, “Information-Centric Networking (ICN) Adaptation to Low-Power Wireless Personal Area Networks (LoWPANs),” RFC Editor, IRTF, RFC 9139, 2021. Available: <a href="http://www.rfc-editor.org/info/rfc9139">http://www.rfc-editor.org/info/rfc9139</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_25"></a>
-    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">C. Gündogan, T. C. Schmidt, D. Oran, and M. Wählisch, “An Alternative Delta Time encoding for CCNx using Interval Time from RFC5497,” IRTF, IRTF Internet Draft – work in progress 03, 2021. Available: <a href="https://tools.ietf.org/html/draft-gundogan-icnrg-ccnx-timetlv">https://tools.ietf.org/html/draft-gundogan-icnrg-ccnx-timetlv</a></div>
+    <div class="csl-left-margin">[25]</div><div class="csl-right-inline">M. S. Lenders, C. Amsüss, C. Gündogan, T. C. Schmidt, and M. Wählisch, “DNS Queries over CoAP (DoC),” IETF, IETF Internet Draft – work in progress 02, 2021. Available: <a href="https://datatracker.ietf.org/doc/draft-lenders-dns-over-coap/">https://datatracker.ietf.org/doc/draft-lenders-dns-over-coap/</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_26"></a>
-    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">C. Gündogan, T. C. Schmidt, M. Wählisch, M. Frey, F. Shzu-Juraschek, and J. Pfender, “Quality of Service for ICN in the IoT,” IRTF, IRTF Internet Draft – work in progress 01, 2019. Available: <a href="http://tools.ietf.org/html/draft-gundogan-icnrg-iotqos">http://tools.ietf.org/html/draft-gundogan-icnrg-iotqos</a></div>
+    <div class="csl-left-margin">[26]</div><div class="csl-right-inline">C. Gündogan, C. Amsüss, T. C. Schmidt, and M. Wählisch, “A Data-centric Deployment Option for CoAP,” IETF, IETF Internet Draft – work in progress 00, 2021. Available: <a href="https://datatracker.ietf.org/doc/html/draft-gundogan-core-icncoap/">https://datatracker.ietf.org/doc/html/draft-gundogan-core-icncoap/</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_27"></a>
-    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">C. Gündogan, T. C. Schmidt, and M. Wählisch, “Publish-Subscribe Deployment Option for NDN in the Constrained Internet of Things,” IRTF, IRTF Internet Draft – work in progress 02, 2018. Available: <a href="http://tools.ietf.org/html/draft-gundogan-icnrg-pub-iot">http://tools.ietf.org/html/draft-gundogan-icnrg-pub-iot</a></div>
+    <div class="csl-left-margin">[27]</div><div class="csl-right-inline">C. Gündogan, T. C. Schmidt, D. Oran, and M. Wählisch, “An Alternative Delta Time encoding for CCNx using Interval Time from RFC5497,” IRTF, IRTF Internet Draft – work in progress 03, 2021. Available: <a href="https://tools.ietf.org/html/draft-gundogan-icnrg-ccnx-timetlv">https://tools.ietf.org/html/draft-gundogan-icnrg-ccnx-timetlv</a></div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_28"></a>
-    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">C. Gündoğan, D. Barthel, and E. Baccelli, “DIS Modifications,” Internet Engineering Task Force; Internet Engineering Task Force, Internet-Draft draft-ietf-roll-dis-modifications-00, Mar. 2017. Available: <a href="https://datatracker.ietf.org/doc/html/draft-ietf-roll-dis-modifications-00">https://datatracker.ietf.org/doc/html/draft-ietf-roll-dis-modifications-00</a></div>
+    <div class="csl-left-margin">[28]</div><div class="csl-right-inline">C. Gündogan, T. C. Schmidt, M. Wählisch, M. Frey, F. Shzu-Juraschek, and J. Pfender, “Quality of Service for ICN in the IoT,” IRTF, IRTF Internet Draft – work in progress 01, 2019. Available: <a href="http://tools.ietf.org/html/draft-gundogan-icnrg-iotqos">http://tools.ietf.org/html/draft-gundogan-icnrg-iotqos</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>
+    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">C. Gündogan, T. C. Schmidt, and M. Wählisch, “Publish-Subscribe Deployment Option for NDN in the Constrained Internet of Things,” IRTF, IRTF Internet Draft – work in progress 02, 2018. Available: <a href="http://tools.ietf.org/html/draft-gundogan-icnrg-pub-iot">http://tools.ietf.org/html/draft-gundogan-icnrg-pub-iot</a></div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>
+    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">C. Gündoğan, D. Barthel, and E. Baccelli, “DIS Modifications,” Internet Engineering Task Force; Internet Engineering Task Force, Internet-Draft draft-ietf-roll-dis-modifications-00, Mar. 2017. Available: <a href="https://datatracker.ietf.org/doc/html/draft-ietf-roll-dis-modifications-00">https://datatracker.ietf.org/doc/html/draft-ietf-roll-dis-modifications-00</a></div>
   </div>
 </div>
 
@@ -135,30 +141,30 @@ showWordCount = false
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 2em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_29"></a>
-    <div class="csl-left-margin">[29]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “Your Message Rescues Me: Enhancing NDN Communication Quality in Disaster Scenarios,” in <i>Proc. of 6th acm conference on information-centric networking (icn), demo session</i>, 2019, pp. 173–174.</div>
-  </div>
-  <div class="csl-entry"><a id="citeproc_bib_item_30"></a>
-    <div class="csl-left-margin">[30]</div><div class="csl-right-inline">C. Gündogan <i>et al.</i>, “Resilient Machine-to-Machine Communication for an Information-centric Industrial IoT,” in <i>Proc. of the 43rd annual ieee conference on local computer networks (lcn’18, demo session)</i>, 2018.</div>
-  </div>
   <div class="csl-entry"><a id="citeproc_bib_item_31"></a>
-    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “HoPP: Publish–Subscribe for the Constrained IoT,” in <i>Proc. of 5th acm conference on information-centric networking (icn), demo session</i>, 2018, pp. 216–217.</div>
+    <div class="csl-left-margin">[31]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “Your Message Rescues Me: Enhancing NDN Communication Quality in Disaster Scenarios,” in <i>Proc. of 6th acm conference on information-centric networking (icn), demo session</i>, 2019, pp. 173–174.</div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_32"></a>
-    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">C. Gündogan <i>et al.</i>, “Demo: Seamless Producer Mobility for the Industrial Information-Centric Internet,” in <i>Proc. of 16th acm international conference on mobile systems, applications (mobisys), demo session</i>, 2018.</div>
+    <div class="csl-left-margin">[32]</div><div class="csl-right-inline">C. Gündogan <i>et al.</i>, “Resilient Machine-to-Machine Communication for an Information-centric Industrial IoT,” in <i>Proc. of the 43rd annual ieee conference on local computer networks (lcn’18, demo session)</i>, 2018.</div>
   </div>
   <div class="csl-entry"><a id="citeproc_bib_item_33"></a>
-    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">C. Gündogan <i>et al.</i>, “Information-Centric Networking for the Industrial IoT,” in <i>Proc. of 4th acm conference on information-centric networking (icn), demo session</i>, 2017, pp. 214–215.</div>
+    <div class="csl-left-margin">[33]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “HoPP: Publish–Subscribe for the Constrained IoT,” in <i>Proc. of 5th acm conference on information-centric networking (icn), demo session</i>, 2018, pp. 216–217.</div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>
+    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">C. Gündogan <i>et al.</i>, “Demo: Seamless Producer Mobility for the Industrial Information-Centric Internet,” in <i>Proc. of 16th acm international conference on mobile systems, applications (mobisys), demo session</i>, 2018.</div>
+  </div>
+  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>
+    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">C. Gündogan <i>et al.</i>, “Information-Centric Networking for the Industrial IoT,” in <i>Proc. of 4th acm conference on information-centric networking (icn), demo session</i>, 2017, pp. 214–215.</div>
   </div>
 </div>
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 2em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_34"></a>
-    <div class="csl-left-margin">[34]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “ICN-LoWPAN: Header Compression for the Constrained IoT,” in <i>Proc. of 5th acm conference on information-centric networking (icn), poster session</i>, 2018, pp. 184–185.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>
+    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">C. Gündogan, P. Kietzmann, T. C. Schmidt, and M. Wählisch, “ICN-LoWPAN: Header Compression for the Constrained IoT,” in <i>Proc. of 5th acm conference on information-centric networking (icn), poster session</i>, 2018, pp. 184–185.</div>
   </div>
-  <div class="csl-entry"><a id="citeproc_bib_item_35"></a>
-    <div class="csl-left-margin">[35]</div><div class="csl-right-inline">P. Kietzmann, C. Gündogan, T. C. Schmidt, and M. Wählisch, “A PUF Seed Generator for RIOT: Introducing Crypto-Fundamentals to the Wild,” in <i>Proc. of 16th acm international conference on mobile systems, applications (mobisys), poster session</i>, 2018.</div>
+  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>
+    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">P. Kietzmann, C. Gündogan, T. C. Schmidt, and M. Wählisch, “A PUF Seed Generator for RIOT: Introducing Crypto-Fundamentals to the Wild,” in <i>Proc. of 16th acm international conference on mobile systems, applications (mobisys), poster session</i>, 2018.</div>
   </div>
 </div>
 
@@ -169,10 +175,10 @@ showWordCount = false
 
 <style>.csl-left-margin{float: left; padding-right: 0em;}
  .csl-right-inline{margin: 0 0 0 2em;}</style><div class="csl-bib-body">
-  <div class="csl-entry"><a id="citeproc_bib_item_36"></a>
-    <div class="csl-left-margin">[36]</div><div class="csl-right-inline">C. Gündogan, C. Amsüss, T. C. Schmidt, and M. Wählisch, “Networking Group Content: RESTful Multiparty Access to a Data-centric Web of Things,” Open Archive: arXiv.org, Technical Report arXiv:2104.01587, 2021. Available: <a href="https://arxiv.org/abs/2104.01587">https://arxiv.org/abs/2104.01587</a></div>
+  <div class="csl-entry"><a id="citeproc_bib_item_38"></a>
+    <div class="csl-left-margin">[38]</div><div class="csl-right-inline">C. Gündogan, C. Amsüss, T. C. Schmidt, and M. Wählisch, “Networking Group Content: RESTful Multiparty Access to a Data-centric Web of Things,” Open Archive: arXiv.org, Technical Report arXiv:2104.01587, 2021. Available: <a href="https://arxiv.org/abs/2104.01587">https://arxiv.org/abs/2104.01587</a></div>
   </div>
-  <div class="csl-entry"><a id="citeproc_bib_item_37"></a>
-    <div class="csl-left-margin">[37]</div><div class="csl-right-inline">M. Lenders <i>et al.</i>, “Connecting the World of Embedded Mobiles: The RIOT Approach to Ubiquitous Networking for the Internet of Things,” Open Archive: arXiv.org, Technical Report arXiv:1801.02833, 2018. Available: <a href="https://arxiv.org/abs/1801.02833">https://arxiv.org/abs/1801.02833</a></div>
+  <div class="csl-entry"><a id="citeproc_bib_item_39"></a>
+    <div class="csl-left-margin">[39]</div><div class="csl-right-inline">M. Lenders <i>et al.</i>, “Connecting the World of Embedded Mobiles: The RIOT Approach to Ubiquitous Networking for the Internet of Things,” Open Archive: arXiv.org, Technical Report arXiv:1801.02833, 2018. Available: <a href="https://arxiv.org/abs/1801.02833">https://arxiv.org/abs/1801.02833</a></div>
   </div>
 </div>

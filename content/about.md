@@ -2,7 +2,7 @@
 title = "About Me"
 author = ["Cenk Gündoğan"]
 date = 2022-12-26T17:26:00+01:00
-lastmod = 2024-02-05T22:26:37+01:00
+lastmod = 2024-02-23T09:55:56+01:00
 draft = false
 showDate = false
 +++
